@@ -1,0 +1,10 @@
+
+Blue pill - Discrete
+Green pill - Continuous
+
+Change default aggregation:
+dropdown -> Default Properties -> Aggregation -> change to whatever
+
+Get legend back:
+Analysis -> Legend -> Select
+
